@@ -5,7 +5,7 @@ I'm thrilled you've stopped by! As a Backend Developer with a knack for Frontend
 ### What Makes Me Tick?
 
 - **Languages:** Java, JavaScript, Python
-- **Frameworks:** Spring (Boot, MVC, Data, Security), Jakarta EE, Hibernate (ORM, Validator)
+- **Frameworks:** Spring (Boot, MVC, Data, Security, Cloud), Jakarta EE, Hibernate (ORM, Validator)
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Web Technologies:** HTML, CSS, Bootstrap, SASS
 - **API Technologies:** GraphQL, REST
